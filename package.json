@@ -10,11 +10,11 @@
     "test": "karma start --single-run --browsers MyHeadlessChrome karma.conf.js"
   },
   "devDependencies": {
-    "chai": "^4.0.2",
-    "karma": "^1.7.0",
-    "karma-chai": "^0.1.0",
-    "karma-chrome-launcher": "^2.1.1",
-    "karma-mocha": "^1.3.0",
-    "mocha": "^3.4.2"
+    "chai": "latest",
+    "karma": "latest",
+    "karma-chai": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-mocha": "latest",
+    "mocha": "latest"
   }
 }
